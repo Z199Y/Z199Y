@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Z199Y
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning Python and App development 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on new python projects 
 - 📫 How to reach me zheritage@hotmail.com
 
 <!---
